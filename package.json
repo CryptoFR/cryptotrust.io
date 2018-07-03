@@ -1,0 +1,28 @@
+{
+  "name": "cryptotrust.io",
+  "version": "1.0.0",
+  "description": "CryptoTrust Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CryptoFR/cryptotrust.io.git"
+  },
+  "author": "Johan Massin <johan@trilogik.net> (http://trilogik.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CryptoFR/cryptotrust.io/issues"
+  },
+  "homepage": "https://github.com/CryptoFR/cryptotrust.io#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "git-rev": "^0.2.1",
+    "less": "^3.0.4",
+    "less-middleware": "^3.0.1",
+    "morgan": "^1.9.0",
+    "negotiator": "^0.6.1"
+  }
+}
