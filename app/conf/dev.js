@@ -2,7 +2,7 @@ module.exports = {
     domain: 'localhost:3000',
     cdn: 'localhost:4326',
     ip: '127.0.0.1',
-    api_url: 'http://api.cryptotrust.loc',
+    api_url: 'http://localhost',
     app: {
         host: '0.0.0.0',
         port: 3000

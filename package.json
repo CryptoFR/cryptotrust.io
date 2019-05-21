@@ -4,6 +4,7 @@
   "description": "CryptoTrust Website",
   "main": "index.js",
   "scripts": {
+    "dev": "node index.js",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,7 +24,8 @@
     "git-rev": "^0.2.1",
     "less": "^3.0.4",
     "less-middleware": "^3.0.1",
-    "morgan": "^1.9.0",
+    "milligram": "^1.3.0",
+    "morgan": "^1.9.1",
     "negotiator": "^0.6.1"
   }
 }
